@@ -10,7 +10,7 @@
 ## Entregables
 
 - **Documento PDF:** [Actividad2_Pineda_Juan_Jose.pdf](Actividad2_Pineda_Juan_Jose.pdf)
-- **Video en YouTube:** Pendiente de publicación. Este campo se actualizará con el enlace del video cuando esté disponible.
+- **Video en YouTube:** [Actividad 2 | Gobernanza de Seguridad de la Información: Caso Café Andino S.A.S.](https://youtu.be/PItB_ssyVCk)
 
 ## Resumen
 
